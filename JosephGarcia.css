@@ -1,0 +1,13 @@
+h1.intro{
+	color: #ff6f69;
+	text-shadow: 4px 4px 4px black;
+	text-align:center;
+	font-size:50px;
+}
+
+body.words{
+	font-size:20px;
+	text-align:center;
+	background-color:#88d8b0;
+	color: #ff6f69;
+}
